@@ -10,3 +10,6 @@
 # import xbmcplugin
 # import xbmcaddon
 # import xbmcvfs
+
+import subprocess
+process = subprocess.Popen('moonlight-osmc', shell=True)

@@ -2,7 +2,7 @@
 
 A directory structure that contains all the resources needed to operate your Kodi (XBMC) add-on.
 
-![Kodi (XBMC) Plugin Boilerplate](plugin.media-type.plugin-name/fanart.jpg)
+![Kodi (XBMC) Plugin Boilerplate]
 
 ## Usage
 
