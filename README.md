@@ -2,8 +2,6 @@
 
 A directory structure that contains all the resources needed to operate your Kodi (XBMC) add-on.
 
-![Kodi (XBMC) Plugin Boilerplate]
-
 ## Usage
 
 1. [Download this boilerplate](https://github.com/J2TeaM-dev/Kodi-XBMC-plugin-boilerplate/archive/master.zip).
